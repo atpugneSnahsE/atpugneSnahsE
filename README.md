@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on "my sleep schedule"<br>I'm looking to collaborate on machine learning<br>I'm currently learning anything that I find fun!<br>Ask me about anything and trust me I will never throw an 'exception'<br>Fun fact: Software engineers are basically highly paid insomnia patients
+🫠 I'm currently working on "my sleep schedule"<br>🦾 I'm looking to collaborate on machine learning<br>🧶 Learning anything that I find fun!<br>💡 Ask me about anything and trust me I will never throw an 'exception'<br>☢️ Fun fact: Software engineers are basically highly paid insomnia patients
 
 
 ## 🌐 Socials:
@@ -15,17 +15,19 @@ I'm currently working on "my sleep schedule"<br>I'm looking to collaborate on ma
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=atpugneSnahsE&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=atpugneSnahsE&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+### 🔅 Badges 
+[![@atpugnes's Holopin board](https://holopin.me/atpugnes)](https://holopin.io/@atpugnes)
 ---
 [![](https://visitcount.itsvg.in/api?id=atpugneSnahsE&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[![@atpugnes's Holopin board](https://holopin.me/atpugnes)](https://holopin.io/@atpugnes)
+
 <!---
 atpugneSnahsE/atpugneSnahsE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
