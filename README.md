@@ -1,7 +1,7 @@
 ## 💫 About Me:
 🎓 Master's student in Informatics Sciences @ Vilnius Tech, Lithuania<br>
 🦾 Looking to collaborate on machine learning & computer vision<br>
-📄 Published 9+ research papers with Springer & IEEE<br>
+📄 Published 14+ research papers with Springer & IEEE<br>
 💡 Ask me about anything — I promise I'll never throw an `exception`<br>
 ☢️ Fun fact: AOT | S3 | EP 16 | 18.15
 
