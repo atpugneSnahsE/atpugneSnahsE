@@ -13,7 +13,7 @@
 
 [![Website](https://img.shields.io/badge/Website-eshansengupta.online-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://eshansengupta.online)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-eshansengupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eshansengupta)
-[![Instagram](https://img.shields.io/badge/Instagram-eshansengupta.me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eshansengupta.me)
+[![Instagram](https://img.shields.io/badge/Instagram-eshansengupta.online-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eshansengupta.online)
 [![Twitter](https://img.shields.io/badge/Twitter-@_eshansengupta-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_eshansengupta)
 [![YouTube](https://img.shields.io/badge/YouTube-@eshansengupta1280-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@eshansengupta1280)
 [![Facebook](https://img.shields.io/badge/Facebook-@official.eshan.sengupta-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/official.eshan.sengupta)
