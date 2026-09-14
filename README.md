@@ -1,6 +1,8 @@
 <div align="center">
-## Eshan Sengupta
-** ML CV Engineer**
+  
+## Eshan Sengupta ##
+  
+**ML CV Engineer**
 
 [![Website](https://img.shields.io/badge/Website-eshansengupta.online-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://eshansengupta.online)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-eshansengupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eshansengupta)
