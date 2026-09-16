@@ -16,7 +16,7 @@
 
 ## 🔬 About Me
 
-I am an M.Sc. in Artificial Intelligence Systems student at Vilnius Gediminas Technical University (Vilnius Tech) with a **9.75/10 GPA**[cite: 1]. My core work revolves around **Machine Learning, Computer Vision, Edge/Fog Computing, and Intelligent IoT Systems**[cite: 1]. I have authored/co-authored **12 peer-reviewed journal articles** (Springer/Inderscience) and **6 conference proceedings** (IEEE/Springer)[cite: 1].
+I am an M.Sc. in Artificial Intelligence Systems student at Vilnius Gediminas Technical University (Vilnius Tech) with a **9.75/10 GPA**. My core work revolves around **Machine Learning, Computer Vision, Edge/Fog Computing, and Intelligent IoT Systems**. I have authored/co-authored **12 peer-reviewed journal articles** (Springer/Inderscience) and **6 conference proceedings** (IEEE/Springer).
 
 ---
 
@@ -41,8 +41,8 @@ I am an M.Sc. in Artificial Intelligence Systems student at Vilnius Gediminas Te
 
 ## 🏆 Highlights & Leadership
 
-* 🥇 **Full ICCR Scholarship:** Fully funded scholarship by the Indian Council of Cultural Relations for B.Tech in CSE at GNDU, India[cite: 1].
-* 🧑‍💼 **Microsoft Learn Student Ambassador:** Reached the 2nd highest milestone; hosted Azure AI workshops for 40+ participants[cite: 1].
-* 👥 **Chairperson, GFG Student Chapter GNDU:** Managed 7 leads and 50+ volunteers across 6 technical events[cite: 1].
-* ☁️ **Google Cloud Career Practitioner:** Tier 3 achiever with 35+ Google Cloud certifications[cite: 1].
+* 🥇 **Full ICCR Scholarship:** Fully funded scholarship by the Indian Council of Cultural Relations for B.Tech in CSE at GNDU, India.
+* 🧑‍💼 **Microsoft Learn Student Ambassador:** Reached the 2nd highest milestone; hosted Azure AI workshops for 40+ participants.
+* 👥 **Chairperson, GFG Student Chapter GNDU:** Managed 7 leads and 50+ volunteers across 6 technical events.
+* ☁️ **Google Cloud Career Practitioner:** Tier 3 achiever with 35+ Google Cloud certifications.
 * 🎨 **Creative Pursuits:** Oil pastels, acrylics, and sketching enthusiast; exhibited works in two group art shows.
