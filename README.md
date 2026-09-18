@@ -16,7 +16,7 @@
 
 ## 🔬 About Me
 
-I am an M.Sc. in Artificial Intelligence Systems student at Vilnius Gediminas Technical University (Vilnius Tech) with a **9.75/10 GPA**. My core work revolves around **Machine Learning, Computer Vision, Edge/Fog Computing, and Intelligent IoT Systems**. I have authored/co-authored **12 peer-reviewed journal articles** (Springer/Inderscience) and **6 conference proceedings** (IEEE/Springer).
+I am an M.Sc. student in Artificial Intelligence Systems at Vilnius Gediminas Technical University (Vilnius Tech). My core work revolves around **Machine Learning, Computer Vision, Edge/Fog Computing, and Intelligent IoT Systems**. I have authored/co-authored **12 peer-reviewed journal articles** (Springer/Inderscience) and **6 conference proceedings** (IEEE/Springer).
 
 ---
 
