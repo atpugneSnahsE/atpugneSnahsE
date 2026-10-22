@@ -23,14 +23,42 @@ I am an M.Sc. student in Artificial Intelligence Systems at Vilnius Gediminas Te
 ## 💻 Tech Stack
 
 ### Programming & Databases
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=plastic&logo=sqlite&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle%20APEX-F80000?style=plastic&logo=oracle&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=sqlite&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white)
+![Oracle APEX](https://img.shields.io/badge/Oracle%20APEX-F80000?style=plastic&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white)
 
 ### ML, AI & Computer Vision
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=plastic&logo=opencv&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=plastic&logo=scikitlearn&logoColor=white)
 
-### Cloud, Tools & DevOps
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=plastic&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=plastic&logo=git&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
+### Robotics, Sensors & Perception
+![RADAR](https://img.shields.io/badge/RADAR-37474F?style=plastic&logoColor=white)
+![LiDAR](https://img.shields.io/badge/LiDAR-00796B?style=plastic&logoColor=white)
+![Monocular Camera](https://img.shields.io/badge/Monocular%20Camera-1565C0?style=plastic&logoColor=white)
+![Stereo Camera](https://img.shields.io/badge/Stereo%20Camera-3949AB?style=plastic&logoColor=white)
+![Industrial Cameras](https://img.shields.io/badge/Industrial%20Cameras-546E7A?style=plastic&logoColor=white)
+![Sonar](https://img.shields.io/badge/Sonar-00838F?style=plastic&logoColor=white)
+![Sensor Fusion](https://img.shields.io/badge/Sensor%20Fusion-6A1B9A?style=plastic&logoColor=white)
+![3D Object Detection](https://img.shields.io/badge/3D%20Object%20Detection-8E24AA?style=plastic&logoColor=white)
 
+### Robotics Middleware & Frameworks
+![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=plastic&logo=ros&logoColor=white)
+![Autoware](https://img.shields.io/badge/Autoware-00A6D6?style=plastic&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
+
+### Cloud, Tools & Data Engineering
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=plastic&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
 ---
 
 ## 💼 Professional Experience
