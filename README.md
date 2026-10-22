@@ -35,6 +35,7 @@ I am an M.Sc. student in Artificial Intelligence Systems at Vilnius Gediminas Te
 
 ## 💼 Professional Experience
 * **Laborantas @ Transporto ir logistikos kompetencijos centras, Vilnius Tech** *(Sep 2026 - Present)*
+* **Research Intern @ AMM Group, IHA, Tampere University, Finland** *(Oct 2026 - Oct 2026)*
 * **IT Intern @ Bangladesh Steel Re-Rolling Mills (BSRM)** *(Sep 2024 – Mar 2025)*
 * **Database Administration Trainee @ New Technology Systems Ltd.** *(Aug 2024 – Sep 2024)*
 * **Graduate Engineering Trainee @ Deepesh Cyber Developers** *(Jan 2024 – Jun 2024)*
